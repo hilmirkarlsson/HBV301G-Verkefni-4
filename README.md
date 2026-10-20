@@ -1,13 +1,15 @@
 # Verkefni 4 – Söfnun krafna
 
-Þetta repo er Template repo - Notaðu "Use this template" til að búa til þitt eigið repo
-fyrir verkefni 3. Uppfærðu þetta README skjal til að lýsa repo-inu þínu, hverjir eru höfundar o.s.frv. 
+## Heiti kerfis: Settið
+Höfundar: Hilmir Karlsson & Silja Ástudóttir (teymi 1)
 
-Í þessu repo eru þrjár aðalskrár sem þið fyllið út:
+## Lýsing á kerfinu
+Settið er einfalt app fyrir fólk sem lyftir. Notendur skrá settin sín á meðan þeir æfa, fylgja plani sem segir þeim hvað á að gera þann daginn og sjá hvort þyngdirnar eru að hækka.
 
-- `elicitation-plan.md` – áætlun fyrir kröfugreiningarfund (um ½ bls).
-- `requirements.md` – flokkuð samantekt á kröfum (um 1 bls).
-- `use-case.md` – ítarlegur fully dressed use case (um 1 bls).
-- `vinnuferli.md` - verkaskipting, ígrundun og gagnsæisyfirlýsing 
+## Innihald
+Repo-ið inniheldur lausn okkar á Verkefni 4 í HBV301G Verkfræði kröfugreiningu. Skrárnar eru:
 
-
+- [elicitation-plan.md](elicitation-plan.md) – áætlun fyrir kröfugreiningarfund.
+- [requirements.md](requirements.md) – flokkuð samantekt á kröfum.
+- [use-case.md] (use-case.md) – ítarlegur fully dressed use case.
+- [vinnuferli.md](vinnuferli.md) - Verkaskipting, ígrundun og gagnsæisyfirlýsing
