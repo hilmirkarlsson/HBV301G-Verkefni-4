@@ -1,15 +1,15 @@
 # Verkefni 4 – Söfnun krafna
 
-## Heiti kerfis: Settið
+## Kerfi: BookIt
 Höfundar: Hilmir Karlsson & Silja Ástudóttir (teymi 1)
 
 ## Lýsing á kerfinu
-Settið er einfalt app fyrir fólk sem lyftir. Notendur skrá settin sín á meðan þeir æfa, fylgja plani sem segir þeim hvað á að gera þann daginn og sjá hvort þyngdirnar eru að hækka.
+BookIt er miðasölukerfi á netinu. Markmiðið er að auka netsölu miða um 10% á þremur mánuðum og draga úr þörf fyrir afgreiðslu á staðnum.
 
 ## Innihald
-Repo-ið inniheldur lausn okkar á Verkefni 4 í HBV301G Verkfræði kröfugreiningu. Skrárnar eru:
+Repo-ið inniheldur lausn okkar á Verkefni 4 í HBV301G Verkfræði kröfugreiningu:
 
 - [elicitation-plan.md](elicitation-plan.md) – áætlun fyrir kröfugreiningarfund.
 - [requirements.md](requirements.md) – flokkuð samantekt á kröfum.
-- [use-case.md] (use-case.md) – ítarlegur fully dressed use case.
-- [vinnuferli.md](vinnuferli.md) - Verkaskipting, ígrundun og gagnsæisyfirlýsing
+- [use-case.md](use-case.md) – notkunartilvik og ítarlegur fully dressed use case.
+- [Vinnuferli.md](Vinnuferli.md) – verkaskipting, ígrundun og gagnsæisyfirlýsing.
