@@ -16,27 +16,23 @@ Hver og einn á að setja inn og viðhalda geymslunni (Git)
     - Hvað má bæta næst
 
 ## Gagnsæisyfirlýsing um notkun gervigreindar
- 
-Gagnsæisyfirlýsingin á að sýna bæði hvernig gervigreind var nýtt og hvert ykkar eigið framlag var. 
 
-1. **Verkfæri:** Hvaða gervigreindarverkfæri notuðuð þið? Nefnið verkfærin.
+Silja notaði ekki gervigreind. Hilmir notaði Claude Code.
 
-2. **Kvaðningar (prompts):** Gefið 1–2 dæmi um kvaðningar sem sýna hvernig þið nýttuð gervigreind við verkefnið.
+1. **Verkfæri:** Claude Code.
 
-3. **Tilgangur:** Tilgreinið í hvaða tilgangi þið notuðuð gervigreind. Merkið við allt sem á við og útskýrið notkunina stuttlega fyrir neðan.
+2. **Kvaðningar (prompts):** „Ég er búinn að edita allt requerments lagaðu alla stafsetningarvillur og gefðu mer tillögur um að bæta þetta“ "lagaðu öll bil og allt svo  taflnan komi út flott" 
 
-  - [ ] Yfirlestur á texta með tilliti til málnotkunar og framsetningar.
-  - [ ] Aðstoð við notkun verkfæra, t.d. Git og GitHub.
+3. **Tilgangur:**
+
+  - [x] Yfirlestur á texta með tilliti til málnotkunar og framsetningar.
+  - [x] Aðstoð við notkun verkfæra, t.d. Git og GitHub.
   - [ ] Upplýsingaleit um viðfangsefni hugbúnaðarins.
   - [ ] Útskýringar á námsefninu og hugtökum þess.
-  - [ ] Hugmyndavinna: Tillögur að hugmyndum, greiningu eða lausnum sem nýttar voru í verkefninu.
-  - [ ] Efnisgerð: Gerð eða endurskoðun á texta, líkönum eða öðru efni sem skilað var í verkefninu.
+  - [x] Hugmyndavinna: Tillögur að hugmyndum, greiningu eða lausnum sem nýttar voru í verkefninu.
+  - [x] Efnisgerð: Gerð eða endurskoðun á texta, líkönum eða öðru efni sem skilað var í verkefninu.
   - [ ] Annað (tilgreinið).
 
-Stutt útskýring: Lýsið nánar hvernig þið notuðuð gervigreind í þeim tilgangi sem þið merktuð við, sérstaklega ef hún var notuð við hugmyndavinnu eða efnisgerð. Tilgreinið hvaða hluta verkefnisins notkunin tengdist.
+Stutt útskýring: Claude Code hjálpaði við að laga glósurnar úr viðtalinu vegna mikilla stafsetningarvillna og þar sem ég gerði mikið af stafsetningarvillum og orðaði setningar skringilega vegna hraða viðtalsins.
 
-4. **Úrvinnsla:** Lýsið hvernig þið yfirfóruð, mátuð og nýttuð úttak gervigreindar í verkefninu. Ef gervigreind var notuð við hugmyndavinnu eða gerð efnis, gefið dæmi um hvernig þið mátuð tillögur hennar og rökstyðjið hvers vegna þið ákváðuð að nýta þær.
-
-Ef gervigreind var notuð við ólíka þætti verkefnisins skuluð þið gera grein fyrir helstu notkunartilvikum.
-Ef gervigreind var ekki notuð við vinnslu verkefnisins skal það koma fram í gagnsæisyfirlýsingunni.
-
+4. **Úrvinnsla:** Hilmir las yfir og nýtti hugmyndir hans út frá glósunum.
