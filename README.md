@@ -1,13 +1,15 @@
 # Verkefni 4 – Söfnun krafna
 
-Þetta repo er Template repo - Notaðu "Use this template" til að búa til þitt eigið repo
-fyrir verkefni 3. Uppfærðu þetta README skjal til að lýsa repo-inu þínu, hverjir eru höfundar o.s.frv. 
+## Kerfi: BookIt
+Höfundar: Hilmir Karlsson & Silja Ástudóttir (teymi 1)
 
-Í þessu repo eru þrjár aðalskrár sem þið fyllið út:
+## Lýsing á kerfinu
+BookIt er miðasölukerfi á netinu. Markmiðið er að auka netsölu miða um 10% á þremur mánuðum og draga úr þörf fyrir afgreiðslu á staðnum.
 
-- `elicitation-plan.md` – áætlun fyrir kröfugreiningarfund (um ½ bls).
-- `requirements.md` – flokkuð samantekt á kröfum (um 1 bls).
-- `use-case.md` – ítarlegur fully dressed use case (um 1 bls).
-- `vinnuferli.md` - verkaskipting, ígrundun og gagnsæisyfirlýsing 
+## Innihald
+Repo-ið inniheldur lausn okkar á Verkefni 4 í HBV301G Verkfræði kröfugreiningu:
 
-
+- [elicitation-plan.md](elicitation-plan.md) – áætlun fyrir kröfugreiningarfund.
+- [requirements.md](requirements.md) – flokkuð samantekt á kröfum.
+- [use-case.md](use-case.md) – notkunartilvik og ítarlegur fully dressed use case.
+- [Vinnuferli.md](Vinnuferli.md) – verkaskipting, ígrundun og gagnsæisyfirlýsing.
